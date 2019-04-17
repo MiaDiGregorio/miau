@@ -1,0 +1,27 @@
+.menu{
+    color: gray;
+    background-color: #ffffd2;
+}
+.pie{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    
+}
+.pies{
+    padding: 5px;
+}
+.login{
+    background-color: #8293ff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+.bodylogin{
+    background-color: #e4e4e4;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+}
